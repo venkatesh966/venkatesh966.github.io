@@ -3,7 +3,6 @@ const API_KEY = "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";
 
 const promptInput = document.getElementById("promptInput");
 const generateBtn = document.getElementById("generateBtn");
-const stopBtn = document.getElementById("stopBtn");
 const resultText = document.getElementById("resultText");
 
 let controller = null;
@@ -15,7 +14,6 @@ const generate = async () => {
   }
 
   generateBtn.disabled = true;
-  stopBtn.disabled = false;
   resultText.innerText = "Generating...";
 
   controller = new AbortController();
@@ -68,17 +66,10 @@ const generate = async () => {
     }
   } finally {
     generateBtn.disabled = false;
-    stopBtn.disabled = true;
-    controller = null;
+    
   }
 };
 
-const stop = () => {
-  if (controller) {
-    controller.abort();
-    controller = null;
-  }
-};
 
 promptInput.addEventListener("keyup", (event) => {
   if (event.key === "Enter") generate();
