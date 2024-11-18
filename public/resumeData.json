@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name": "Venkatesh Morpoju",
+    "description": "Full Stack Developer",
+    "image": "profilepic.jpg",
+    "bio": "Experienced Full Stack Developer skilled in ReactJS, Spring Boot, MongoDB, and more. I've contributed to projects at Sephora, Agricultural Sciences UGA, and Quanteon Solutions, focusing on performance optimization and secure platform development.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "venkateshmorpojuchary@gmail.com",
+    "phone": "762-772-0839",
+    "github": "https://github.com/venkatesh966",
+    "project": "https://www.linkedin.com/in/venkatesh99/",
+    "about": {
+      "bio": "Experienced Full Stack Developer skilled in ReactJS, Spring Boot, MongoDB, and more. I've contributed to projects at Sephora, Agricultural Sciences UGA, and Quanteon Solutions, focusing on performance optimization and secure platform development.",
+      "tutor": "I am a passionate tutor who loves to share my knowledge in a simple and explainable way. I believe that making complex topics easy to understand is key to helping students succeed, and I enjoy seeing them grow and learn.",
+      "sportsAndEvents": "I’m passionate about sports and enjoy playing all kinds of games. I also participate in various events, and I'm always open to joining new activities. If you're interested in collaborating or joining me for sports, feel free to reach out",
+      "collaborationMessage": "I'm always open to new ideas and collaboration. Reach out to me if you want to discuss your ideas at",
+      "emailLink": "venkateshmorpojuchary@gmail.com"
+    },
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://morpojuvenkatesh.com",
+    "resumedownload": "http://morpojuvenkatesh.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/venkatesh-morpoju/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/venkatesh966",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Georgia",
+        "degree": "Master's in Computer Science",
+        "graduated": "Jan 2022 - Dec 2023",
+        "description": "GPA: 3.66/4.0"
+      },
+      {
+        "school": "Sreenidhi Institute of Science and Technology",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "Oct 2014 - Apr 2018",
+        "description": "GPA: 3.77/4.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sephora",
+        "title": "Software Engineer (contract)",
+        "years": "Jun 2024 - Present",
+        "description": "Developed and implemented new UI screens using React with a Spring Boot backend for BlueYonder WMS, integrating via iframes, enhancing user interactions with a comprehensive knowledge of Restful Services. Migrated JDA WMS backend code (MOCA) to Java with Spring Boot, incorporating single-token authentication methodologies and aligning with Restful Services to facilitate seamless operation of React screens."
+      },
+      {
+        "company": "Lean Innovation Labs",
+        "title": "Software Engineer (contract)",
+        "years": "Mar 2024 - Jun 2024",
+        "description": "Contributed to FlowScript.AI by developing using NodeJS and ReactTS, reducing complexity in web app creation via intuitive English prompts while maintaining a strong understanding of the project scope and alignments with business needs. Onboarded over 1,000 users to the pre-launch platform, showcasing effective stakeholder collaboration."
+      },
+      {
+        "company": "Quanteon Solutions",
+        "title": "Full Stack Developer",
+        "years": "Jun 2019 - Sep 2021",
+        "description": "Developed user interfaces for InAppBI, improving query response times by 15%. Utilized AWS Elastic Load Balancing (ELB) for traffic distribution across EC2 instances, enhancing application availability during high query loads by 30%. Developed SimpleFin for small-scale businesses to track expenses, and MindSpace for online patient-doctor consultations."
+      },
+      {
+        "company": "Foyr",
+        "title": "Mean Stack Developer",
+        "years": "May 2018 - Apr 2019",
+        "description": "Developed a centralized notification system using NodeJS, reducing email and SMS delivery times by 20%. Upgraded the Storyteller tool with Google Maps integration, providing a more visual and informative experience."
+      },
+      {
+        "company": "Berkadia",
+        "title": "Software Developer Intern",
+        "years": "Nov 2017 - Jan 2018",
+        "description": "Designed and developed the All-in-One portal using Angular 4 for frontend and PHP for backend. This platform empowered users to consolidate and manage their information efficiently."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "78%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "React Js",
+        "level": "75%"
+      },
+      {
+        "name": "React Native",
+        "level": "65%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "75%"
+      },
+      {
+        "name": "Node Js",
+        "level": "75%"
+      },
+      {
+        "name": "Databases",
+        "level": "65%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
+        "name": "Html & Css",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Simplefin",
+        "desc": "(Business App for Mobile)",
+        "category": "Business App",
+        "image": "01.jpg",
+        "url": "https://www.simplefin.in"
+      },
+      {
+        "title": "InAppBI",
+        "desc": "(Analytics Tool For Web)",
+        "category": "Web Analytics",
+        "image": "02.jpg",
+        "url": "https://www.inappbi.com/"
+      },
+      {
+        "title": "Foyr Neo",
+        "desc": "(Designer Product For Web)",
+        "category": "Web Design",
+        "image": "03.jpg",
+        "url": "https://neo.foyr.com/"
+      },
+      {
+        "title": "Quanteon Solutions",
+        "desc": "(Static Site For Web)",
+        "category": "Business Solutions",
+        "image": "04.jpg",
+        "url": "http://www.quanteonsolutions.com/"
+      }
+    ]
+  }
+}

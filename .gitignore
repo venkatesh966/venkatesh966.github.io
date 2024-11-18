@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test coverage reports
+coverage/
+
+# Optional: Ignore any other files you don’t want to commit
+*.log
+*.bak
