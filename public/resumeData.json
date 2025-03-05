@@ -70,13 +70,13 @@
     "work": [
       {
         "company": "Sephora",
-        "title": "Software Engineer (contract)",
+        "title": "Software Engineer",
         "years": "Jun 2024 - Present",
         "description": "Developed and implemented new UI screens using React with a Spring Boot backend for BlueYonder WMS, integrating via iframes, enhancing user interactions with a comprehensive knowledge of Restful Services. Migrated JDA WMS backend code (MOCA) to Java with Spring Boot, incorporating single-token authentication methodologies and aligning with Restful Services to facilitate seamless operation of React screens."
       },
       {
         "company": "Lean Innovation Labs",
-        "title": "Software Engineer (contract)",
+        "title": "Software Engineer",
         "years": "Mar 2024 - Jun 2024",
         "description": "Contributed to FlowScript.AI by developing using NodeJS and ReactTS, reducing complexity in web app creation via intuitive English prompts while maintaining a strong understanding of the project scope and alignments with business needs. Onboarded over 1,000 users to the pre-launch platform, showcasing effective stakeholder collaboration."
       },
